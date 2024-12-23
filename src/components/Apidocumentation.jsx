@@ -39,7 +39,8 @@ const ApiDocintroducion = () => {
       <h3>Base URL</h3>
       <p>
         To use this API, send an HTTP request to the base URL:{" "}
-        <code>https://localhost:3003</code> with the given endpoint.
+        <code>https://evangadi-forum-backend-mnq9.onrender.com/</code> with the
+        given endpoint.
       </p>
     </section>
   );
